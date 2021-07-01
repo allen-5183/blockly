@@ -27,7 +27,7 @@ handlers:
   secure: always
 
 # Favicon.
-- url: favicon\.ico
+- url: ../../favicon\.ico
   static_files: favicon.ico
   upload: favicon\.ico
   secure: always
